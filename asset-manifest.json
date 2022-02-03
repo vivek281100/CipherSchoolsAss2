@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vivek281100/CipherSchoolsAss2.git/static/css/main.0ef61040.css",
+    "main.js": "/vivek281100/CipherSchoolsAss2.git/static/js/main.f06bd7d9.js",
+    "index.html": "/vivek281100/CipherSchoolsAss2.git/index.html",
+    "main.0ef61040.css.map": "/vivek281100/CipherSchoolsAss2.git/static/css/main.0ef61040.css.map",
+    "main.f06bd7d9.js.map": "/vivek281100/CipherSchoolsAss2.git/static/js/main.f06bd7d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ef61040.css",
+    "static/js/main.f06bd7d9.js"
+  ]
+}
